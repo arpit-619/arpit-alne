@@ -5,8 +5,8 @@
 
 ## I'm a Frontend Web Developer!
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw and play guitar / drums
+## 🌱 I’m currently learning everything 🤣
+
 
 ### Connect with me:
 
